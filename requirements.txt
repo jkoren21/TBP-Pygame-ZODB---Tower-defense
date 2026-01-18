@@ -1,0 +1,5 @@
+pygame>=2.5
+ZODB>=5.8
+persistent>=5.2
+BTrees>=5.0
+transaction>=4.0
